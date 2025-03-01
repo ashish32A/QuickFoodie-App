@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "666238411363",
+    "project_id": "quickfoodie-afc44",
+    "storage_bucket": "quickfoodie-afc44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666238411363:android:68efb372959c1a774d4e56",
+        "android_client_info": {
+          "package_name": "com.dummyapps.quickfoodie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGIzdNhVDrtzk5h2JOOMS_LWJwDDyNz3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

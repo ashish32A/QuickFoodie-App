@@ -1,0 +1,3 @@
+String PublishableKey =
+    "pk_test_51Q0myJBAdjmvHtVxRX3zpzdvi1TASKZYcGEdqsWxOY4uHRPmxM7OWDj6HJyAVBXur3RrY8t4x5jrqpTamyHl92qE00XKLLEJS5";
+String ScreatKey = "sk_test_51Q0myJBAdjmvHtVxVlVjFROwshGIjnXKwnZaCiCwbAhuTPJyVjeJ3XAJ1MafFZNi6U89zJA9D9Y4ctsIZAsycNqm001Zy7YeNS";
